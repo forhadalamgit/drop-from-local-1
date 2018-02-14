@@ -1,0 +1,17 @@
+* {margin:0; padding:0;}
+li {list-style: none;}
+a {text-decoration: none;}
+
+.container {margin:0 auto; width:1170px; display: block;}
+.header {width:80%;}
+.logo_area {text-align: center;}
+.logoimg {margin: 15px auto; padding: 5px 0;}
+.menu_bar {}
+.navmenu {}
+.navmenu ul{}
+.navmenu ul li{position:relative; display: inline-block;}
+.navmenu ul li:after { content:''; display:block; clear:both;}
+.navmenu ul li a{display: block; width:100%; padding:5px 10px; }
+/*.navmenu ul li a:after{ content:''; position: absolute;}
+*/
+.navmenu {}
